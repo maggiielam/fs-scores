@@ -19,4 +19,4 @@ year = "17-18"
 # mbot.run(year + " World Championship Mens Free Skate", "https://www.isuresults.com/results/season1718/wc2018/wc2018_Men_FS_Scores.pdf", "website/"+year+"/wc/m_free")
 
 # wbot.run(year + " Olympics Womens Free Skate", "https://www.isuresults.com/results/season1718/owg2018/OWG2018_LadiesSingleSkating_FS_Scores.pdf", "website/"+year+"/olys/w_free")
-# mbot.run(year + " Olympics Mens Free Skate", "https://www.isuresults.com/results/season1718/owg2018/OWG2018_MenSingleSkating_FS_Scores.pdf", "website/"+year+"/olys/m_free")
+mbot.run(year + " Olympics Mens Free Skate", "https://www.isuresults.com/results/season1718/owg2018/OWG2018_MenSingleSkating_FS_Scores.pdf", "website/"+year+"/olys/m_free")

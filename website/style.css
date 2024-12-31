@@ -5,7 +5,7 @@ html{
     padding-top:20px;
     padding-left: 25px;
     background-color: #f7f5f2;
-    color:#393d38
+    color:#1B3B46
     
 }
 
@@ -40,7 +40,7 @@ table{
     position:-webkit-sticky;
     position:sticky;
     top:5%;
-    background-color: #e9e5da;
+    background-color: #e6e3de;
     table-layout:fixed;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 500;
@@ -82,7 +82,7 @@ table{
 }
 
 table.tot{
-    background-color: #e9e5da;
+    background-color: #e0e5ea;
     table-layout:fixed;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 500;
@@ -177,7 +177,7 @@ table.tot{
 
 tr:nth-child(even) {background-color: #e6e3de;}
 tr:hover td{
-    background-color:#ede7dc;
+    background-color:#e2e0ed;
     transform: scale(1.1)
 }
 
